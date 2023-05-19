@@ -238,7 +238,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/teeteeteeteetee/Requiem.svg?style=for-the-badge
 [contributors-url]: https://github.com/teeteeteeteetee/Requiem/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/teeteeteeteetee/Requiem.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/teeteeteeteetee/Requiem.svg?style=for-the-badge
 [forks-url]: https://github.com/teeteeteeteetee/Requiem/network/members
 [stars-shield]: https://img.shields.io/github/stars/teeteeteeteetee/Requiem.svg?style=for-the-badge
 [stars-url]: https://github.com/teeteeteeteetee/Requiem/stargazers
