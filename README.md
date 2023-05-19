@@ -91,7 +91,7 @@ Here's why:
 * no need to look up through discord dms / emails
 * ⛏️👻📕
 
-Use the `GUIDE.md` to get started.
+Scroll down to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
