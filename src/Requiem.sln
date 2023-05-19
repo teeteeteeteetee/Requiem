@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Requiem", "Requiem\Requiem.csproj", "{79ABBC56-263A-4DA2-AD78-A664B455B786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79ABBC56-263A-4DA2-AD78-A664B455B786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79ABBC56-263A-4DA2-AD78-A664B455B786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79ABBC56-263A-4DA2-AD78-A664B455B786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79ABBC56-263A-4DA2-AD78-A664B455B786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71A3EFD9-5D14-4DE4-9224-DE46604E80D6}
+	EndGlobalSection
+EndGlobal
